@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Input data for Day is out of range</name>
+   <tag></tag>
+   <elementGuidId>691a5b9e-3d82-47f3-8a90-8438137ab279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#day-range-error</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'day-range-error' and (text() = ' Input data for Day is out of range! ' or . = ' Input data for Day is out of range! ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='day-range-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>c07b182e-67f5-4e04-893a-ffab6daa74ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>day-range-error</value>
+      <webElementGuid>ebdc6da2-c81b-46c0-9a82-777751ed2009</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>1740c2a1-3e33-46e8-b9b3-d1c12df04973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Input data for Day is out of range! </value>
+      <webElementGuid>f7cdba7c-cc1e-4c61-bce3-6f06124d8eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;day-range-error&quot;)</value>
+      <webElementGuid>b784e393-33e1-4384-99fe-a2f12cac718d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//font[@id='day-range-error']</value>
+      <webElementGuid>41200999-0fb3-4e50-8aa4-2866bfb827cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>8c6cb32f-72b4-4ec0-ba59-e8ae385baf9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[@id = 'day-range-error' and (text() = ' Input data for Day is out of range! ' or . = ' Input data for Day is out of range! ')]</value>
+      <webElementGuid>898c8519-61e1-4d19-a772-40cbad4a064a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

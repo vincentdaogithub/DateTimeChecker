@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Format</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>4b940d6f-7e1a-4d1b-91f3-e2810614b045</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>1 2 b false false true</data>
+   <data>1 v 1001 false true false</data>
+   <data>dh 12 2003 true false false</data>
+   <data>fgh rt 2016 true true false</data>
+   <data>1 dsfs dsfs false true true</data>
+   <data>sdasd 2 sadas true false true</data>
+   <data>asdas fghfg daed true true true</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>txtDay</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>txtMonth</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>txtYear</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>isDayFailed</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>isMonthFailed</name>
+      <size>7</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>isYearFailed</name>
+      <size>7</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

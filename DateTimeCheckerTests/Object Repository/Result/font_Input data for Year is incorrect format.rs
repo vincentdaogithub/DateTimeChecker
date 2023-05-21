@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Input data for Year is incorrect format</name>
+   <tag></tag>
+   <elementGuidId>1926572f-9b3b-4e8a-854e-81f95aab29dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#year-range-error</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'year-range-error']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='year-format-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>554f0a83-1dd1-4c27-9ecb-69c8516f2b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>year-range-error</value>
+      <webElementGuid>0b985f61-0510-4737-ab52-908fd776f213</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>2de045d7-0686-4a95-9a1c-a3248ad345ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Input data for Year is incorrect format! </value>
+      <webElementGuid>7d9937ca-36b3-456b-96f3-5518ce9fb6b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;year-range-error&quot;)</value>
+      <webElementGuid>f98ae899-24a7-4387-9957-8d6a2e26d091</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//font[@id='year-range-error']</value>
+      <webElementGuid>7ab30d22-7116-4142-bb7d-cbcef8beb309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/font</value>
+      <webElementGuid>5f4fe624-8467-475a-bd7a-ca2cc7aef98c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[@id = 'year-range-error' and (text() = ' Input data for Year is incorrect format! ' or . = ' Input data for Year is incorrect format! ')]</value>
+      <webElementGuid>3c1fdaec-504c-4bd2-8141-17a4d0c4e47a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

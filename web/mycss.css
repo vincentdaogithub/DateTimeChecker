@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+div {
+  text-align: center;
+  border: 3px black solid;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+h1 {
+    color: blue;
+}

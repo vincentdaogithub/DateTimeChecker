@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>font_Input data for Year is out of range</name>
+   <tag></tag>
+   <elementGuidId>87757195-9668-4b5a-9628-29eab89db02c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#year-range-error</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'year-range-error' and (text() = ' Input data for Year is out of range! ' or . = ' Input data for Year is out of range! ')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='year-range-error']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>792067b3-b0f1-4aae-88a4-20ad0d134ad2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>year-range-error</value>
+      <webElementGuid>d7aec66d-ecd0-40bf-8260-255b12765b98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>red</value>
+      <webElementGuid>66204671-04b9-419a-ba34-0173107cc34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Input data for Year is out of range! </value>
+      <webElementGuid>654e708c-20bb-41a2-af10-37d9846be74c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;year-range-error&quot;)</value>
+      <webElementGuid>d0ffdd4a-47f8-4afa-ba84-0b0a975b7396</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//font[@id='year-range-error']</value>
+      <webElementGuid>e7c69997-8015-4b8e-90d4-e821ad6be18f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/font</value>
+      <webElementGuid>6181476a-8d1a-485f-a966-c8be86e2c515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[@id = 'year-range-error' and (text() = ' Input data for Year is out of range! ' or . = ' Input data for Year is out of range! ')]</value>
+      <webElementGuid>9fb3ee0b-c514-4708-a9e9-456f5f2b4aab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
