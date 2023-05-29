@@ -10,7 +10,10 @@ package DateTime;
  * @author Thuan
  */
 public class DateTimeFunction {
-    static public int DaysInMonth(int Year, int Month) {
+    static public int DaysInMonth(Integer Year, Integer Month) {
+        if (Year < 0 || Year > 3000 || Month < 0 || Month > 12) {
+            return 0;
+        }
         if (Month == 1 || Month == 3 || Month == 5 || Month == 7 || Month == 8 || Month == 10 || Month == 12) {
             return 31;
         }
@@ -26,7 +29,7 @@ public class DateTimeFunction {
         if (Year % 4 == 0) {
             return 29;
         }
-        return 28;
+        return 0;
     }
 
     static public boolean IsValidDate(int Year, int Month, int Day) {
